@@ -1,0 +1,7 @@
+# Python Environment and compiled files
+venv/
+__pycache__/
+*.pyc
+
+# Local secrets and configuration files
+.env
