@@ -1,0 +1,18 @@
+{
+    "IOC": "185.191.37.152",
+    "Timestamp": "2025-11-28T09:36:45.502648",
+    "Vendor_Data": {
+        "VirusTotal": {
+            "malicious_vendors": 8,
+            "reputation_score": -5,
+            "vt_link": "https://www.virustotal.com/gui/ip-address/185.191.37.152/details"
+        },
+        "AbuseIPDB": {
+            "confidence_score": 90,
+            "total_reports": 550,
+            "country": "FR"
+        }
+    },
+    "Final_Risk_Score": 8.5,
+    "Recommended_Action": "🔴 CRITICAL: Immediate Firewall/Proxy BLOCK and Host Isolation."
+}
