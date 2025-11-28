@@ -41,7 +41,7 @@ Due to the common **restrictions of free-tier Threat Intelligence APIs**, a simu
 
 This demonstrates the core logic: the tool correctly processes high-risk data and assigns the strictest security policy.
 
-* **File:** [`03-high-risk-simulated.json`](./results/03-high-risk-simulated.json)
+* **File:** [`03-high-risk-simulated.json`](results/03-high-risk-simulated.json)
 * **Final Score:** **8.5/10**
 * **Policy:** **🔴 CRITICAL: Immediate Firewall/Proxy BLOCK and Host Isolation.**
 
@@ -67,7 +67,7 @@ By using a simulated report, we achieve two crucial goals:
 
 This uses live data to show the tool's ability to differentiate between low-priority noise and threats requiring closer monitoring.
 
-* **File:** [`02-medium-risk-live.json`](./results/02-medium-risk-live.json)
+* **File:** [`02-medium-risk-live.json`](results/02-medium-risk-live.json)
 * **Final Score:** **3.5/10**
 * **Policy:** **🟡 MEDIUM: Monitor traffic for 24-48 hours.**
 
@@ -75,7 +75,7 @@ This uses live data to show the tool's ability to differentiate between low-prio
 
 This verifies the tool's accuracy on a trusted IOC, confirming it correctly assigns the lowest risk score.
 
-* **File:** [`01-low-risk-live.json`](./results/01-low-risk-live.json)
+* **File:** [`01-low-risk-live.json`](results/01-low-risk-live.json)
 * **Final Score:** **0.0/10**
 * **Policy:** **🟢 LOW: Close ticket, no action required.**
 
