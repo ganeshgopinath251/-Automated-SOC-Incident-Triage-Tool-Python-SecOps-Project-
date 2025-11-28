@@ -68,7 +68,7 @@ By using a simulated report, we achieve two crucial goals:
 This uses live data to show the tool's ability to differentiate between low-priority noise and threats requiring closer monitoring.
 
 * **File:** [`02-medium-risk-live.json`](Results/02-medium-risk-live.json)
-* **Final Score:** **3.5/10**
+* **Final Score:** **1.5/10**
 * **Policy:** **🟡 MEDIUM: Monitor traffic for 24-48 hours.**
 
 ### 3. Low Risk Scenario (Verification) 🟢
