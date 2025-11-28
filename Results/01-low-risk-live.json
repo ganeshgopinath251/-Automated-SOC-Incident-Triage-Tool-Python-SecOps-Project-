@@ -1,0 +1,18 @@
+{
+    "IOC": "8.8.8.8",
+    "Timestamp": "2025-11-28T09:30:00.000000",
+    "Vendor_Data": {
+        "VirusTotal": {
+            "malicious_vendors": 0,
+            "reputation_score": 0,
+            "vt_link": "https://www.virustotal.com/gui/ip-address/8.8.8.8/details"
+        },
+        "AbuseIPDB": {
+            "confidence_score": 0,
+            "total_reports": 0,
+            "country": "US"
+        }
+    },
+    "Final_Risk_Score": 0.0,
+    "Recommended_Action": "🟢 LOW: Close ticket, no action required."
+}
