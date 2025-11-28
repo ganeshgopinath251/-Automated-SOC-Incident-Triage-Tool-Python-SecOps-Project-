@@ -1,0 +1,18 @@
+{
+    "IOC": "45.140.167.165",
+    "Timestamp": "2025-11-28T09:37:06.605163",
+    "Vendor_Data": {
+        "VirusTotal": {
+            "malicious_vendors": 3,
+            "reputation_score": 0,
+            "vt_link": "https://www.virustotal.com/gui/ip-address/45.140.167.165/details"
+        },
+        "AbuseIPDB": {
+            "confidence_score": 0,
+            "total_reports": 0,
+            "country": "GB"
+        }
+    },
+    "Final_Risk_Score": 1.5,
+    "Recommended_Action": "\ud83d\udfe1 MEDIUM: Monitor traffic for 24-48 hours."
+}                     
