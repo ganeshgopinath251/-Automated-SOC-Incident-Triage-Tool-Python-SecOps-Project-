@@ -18,7 +18,7 @@ For the complete, detailed, step-by-step instructions on cloning the repository,
 
 ---
 
-### ➡️ [View Full Installation and Setup Guide](./docs/INSTALL.md)
+### ➡️ [View Full Installation and Setup Guide](guide/INSTALL.md)
 
 ---
 
